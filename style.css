@@ -1,0 +1,95 @@
+
+.container{
+    text-align: center;
+    border: 1px solid rgb(52, 170, 199);
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px rgb(84, 179, 202);
+    
+}
+
+.input-field{
+    padding: 10px;
+}
+
+.first-name{
+    width: 400px;
+    margin-bottom: 30px;
+    border-top: none;
+    border-left: none;
+    outline: none;
+    padding: 5px;
+    border-right: none;
+    font-size: 20px;
+
+}
+.last-name{
+    width: 400px;
+    margin-bottom: 30px;
+    border-top: none;
+    border-left: none;
+    outline: none;
+    padding: 5px;
+    font-size: 20px;
+    border-right: none;
+}
+
+.email{
+    width: 400px;
+    margin-bottom: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 5px;
+    font-size: 20px;
+    outline: none;
+}
+.pass{
+    width: 400px;
+    margin-bottom: 10px;
+    border-top: none;
+    border-left: none;
+    outline: none;
+    border-right: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.anchor-login{
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn-signup{
+    padding: 13px;
+    width: 150px;
+    background-color: #242323;
+    color: rgb(241, 239, 239);
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
